@@ -22,8 +22,8 @@ Ideal para pequenos negócios que desejam vender online de forma prática e dire
 ## 🧱 Estrutura do Projeto
 
 ```plaintext
-📁 projeto-loja
+📁 siteloja
  ├── index.html
  ├── style.css
  ├── script.js
- └── README.md
+── README.md
